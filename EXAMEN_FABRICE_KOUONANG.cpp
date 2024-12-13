@@ -6,7 +6,7 @@
 */
 
 // note : les données sont fictives et ne doivent pas être utilisées dans un contexte réel.
-// Moy: 99.5/100
+// Moy: 99.5/100 Bravo
 #include <iostream>
 #include <string>
 #include <iomanip>
