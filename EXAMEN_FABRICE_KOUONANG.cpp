@@ -4,6 +4,9 @@
      But:        Demander les informations sur les employés (nom, titre, année experience...)
                  puis calculer le salaire de chacun des employés et génére diverses statistique.
 */
+
+// note : les données sont fictives et ne doivent pas être utilisées dans un contexte réel.
+// Moy: 99.5/100
 #include <iostream>
 #include <string>
 #include <iomanip>
